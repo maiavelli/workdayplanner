@@ -72,6 +72,7 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: slategrey;
+  font-size: 20px;
   color: white;
 }
 
@@ -79,4 +80,5 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
 
